@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-31 18:46:01,https://smart.pendy.dpdns.org/Smart.php?id=cctv4$订阅源
+2025-08-31 21:54:08,https://smart.pendy.dpdns.org/Smart.php?id=cctv4$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://smart.pendy.dpdns.org/Smart.php?id=cctv4$订阅源
